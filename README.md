@@ -1,8 +1,6 @@
 # Trabajo Práctico 1 - Sistema de Archivos FAT12
 
 **Materia:** Sistemas Operativos y Redes II.
-**Grupo:** 2.
-**Integrantes:** Ezequiel Ravignani, Carlos Caballero, Cristian Yoel Garay, Juan Farias y Pablo Igei Nakagawa.
 
 ## Archivos del proyecto
 
@@ -16,5 +14,5 @@
 ## Compilación y ejecución
 **Dentro de la terminal de linux:**
 - Para compilar todos los programas, utilizar el comando "make all".
- - Luego para la ejecución utilizar ./nombre_de_archivo. Ejemplo: ./read_root
+- Luego para la ejecución utilizar ./nombre_de_archivo. Ejemplo: ./read_root
 - Para borrar los ejecutables de nuestros archivos utilizar el comando "make clean".
